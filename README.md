@@ -1,2 +1,1 @@
-Second task in dart basics
-how to write conditional statements using if else
+writing conditional statements using if else
